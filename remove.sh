@@ -10,7 +10,7 @@ ARCHIVE_DIR="C:/Users/shoai/Downloads/Archive"
 EFFECTIVE_DAYS=15
 
 # Change file retention using below variable
-REMOVAL_DAYS=5
+REMOVAL_DAYS=7
 
 LOG_FILE=$BASE_DIR/logs/removeIt.log
 
